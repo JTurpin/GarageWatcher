@@ -1,13 +1,13 @@
 EAGLE AutoRouter Statistics:
 
-Job           : C:/Users/jim/Documents/eagle/Ether_Garage/untitled.brd
+Job           : /Users/jim/Documents/eagle/Ether_Garage/untitled.brd
 
-Start at      : 10:31:15 (5/18/2011)
-End at        : 10:31:15 (5/18/2011)
+Start at      : 23:11:34 (5/20/11)
+End at        : 23:11:34 (5/20/11)
 Elapsed time  : 00:00:00
 
 Signals       :    20   RoutingGrid: 50 mil  Layers: 2
-Connections   :    47   predefined:  47 ( 0 Vias )
+Connections   :    47   predefined:  47 ( 1 Vias )
 
 Router memory :   14144
 
